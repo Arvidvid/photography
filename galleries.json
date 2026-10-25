@@ -1,0 +1,85 @@
+[
+  {
+    "id": "Animals",
+    "title": "Animals",
+    "photos": [
+      "galleries/Animals/535A0970.jpeg",
+      "galleries/Animals/535A0972.jpeg",
+      "galleries/Animals/535A1025.jpeg",
+      "galleries/Animals/535A1037.jpeg",
+      "galleries/Animals/535A1042.jpeg",
+      "galleries/Animals/535A1513.jpeg",
+      "galleries/Animals/535A1615.jpeg",
+      "galleries/Animals/535A2017.jpeg"
+    ]
+  },
+  {
+    "id": "Forest",
+    "title": "Forest",
+    "photos": [
+      "galleries/Forest/535A2034.jpeg",
+      "galleries/Forest/535A2043.jpeg",
+      "galleries/Forest/535A2046.jpeg",
+      "galleries/Forest/535A2047.jpeg",
+      "galleries/Forest/535A2049.jpeg"
+    ]
+  },
+  {
+    "id": "Roma",
+    "title": "Roma",
+    "photos": [
+      "galleries/Roma/535A1934.jpeg",
+      "galleries/Roma/535A1956.jpeg",
+      "galleries/Roma/535A1957.jpeg",
+      "galleries/Roma/535A1958.jpeg",
+      "galleries/Roma/535A1959.jpeg",
+      "galleries/Roma/535A1960.jpeg"
+    ]
+  },
+  {
+    "id": "Sun & Moon",
+    "title": "Sun & Moon",
+    "photos": [
+      "galleries/Sun & Moon/535A0685.jpeg",
+      "galleries/Sun & Moon/535A0768.jpeg",
+      "galleries/Sun & Moon/535A0771.jpeg",
+      "galleries/Sun & Moon/535A1194.jpeg",
+      "galleries/Sun & Moon/535A1207.jpeg",
+      "galleries/Sun & Moon/535A1216.jpeg",
+      "galleries/Sun & Moon/535A1224.jpeg",
+      "galleries/Sun & Moon/535A1241.jpeg",
+      "galleries/Sun & Moon/535A1245.jpeg",
+      "galleries/Sun & Moon/535A1256.jpeg",
+      "galleries/Sun & Moon/535A1905.jpeg"
+    ]
+  },
+  {
+    "id": "Water",
+    "title": "Water",
+    "photos": [
+      "galleries/Water/535A0690.jpeg",
+      "galleries/Water/535A0896.jpeg",
+      "galleries/Water/535A1471.jpeg",
+      "galleries/Water/535A1492.jpeg",
+      "galleries/Water/535A1528.jpeg",
+      "galleries/Water/535A1678.jpeg",
+      "galleries/Water/535A2064.jpeg",
+      "galleries/Water/535A2066.jpeg",
+      "galleries/Water/535A2072.jpeg",
+      "galleries/Water/535A2084.jpeg"
+    ]
+  },
+  {
+    "id": "Z\u00fcrich",
+    "title": "Z\u00fcrich",
+    "photos": [
+      "galleries/Z\u00fcrich/535A2022.jpeg",
+      "galleries/Z\u00fcrich/535A2024.jpeg",
+      "galleries/Z\u00fcrich/535A2029.jpeg",
+      "galleries/Z\u00fcrich/535A2030.jpeg",
+      "galleries/Z\u00fcrich/535A2032.jpeg",
+      "galleries/Z\u00fcrich/535A2050.jpeg",
+      "galleries/Z\u00fcrich/535A2055.jpeg"
+    ]
+  }
+]
